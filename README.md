@@ -1,9 +1,9 @@
-# Dizin Bulucu
-Bu araç bir dizin tarama aracıdır ve sadece eğitim amaçlıdır.
+# Directory Finder
+This is tool a directory finder.It is for just educational purposes
 
-Kullanımı:
+How to use it?
 
-git clone https://github.com/Pharosw/DizinBulucu.git
+git clone https://github.com/Pharosw/DirectoryFinder.git
 
 cd DizinBulucu
 
